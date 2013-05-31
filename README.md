@@ -1,7 +1,11 @@
 Dyno
 =====
+
 Intro
 ------
+
+This is a fork from [dyno 0.2](https://pypi.python.org/pypi/dyno/).
+
 Dyno is a set of libraries for implementing fault tolerant service orientated 
 architectures based off the `Hystrix`_ library for Java from Netflix. 
 Inspiration has also been taken from the `Spring Python Project`_ for the JVM 
